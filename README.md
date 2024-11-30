@@ -20,7 +20,7 @@ Comprehensive test cases have been written for the following scenarios:
 10. Check the Merchant's balance.
 
 > 📌 **Link to Test Case Document:**  
-[View Test Cases]([./path-to-your-test-cases-document](https://docs.google.com/spreadsheets/d/1hg1lb3_okQ9zDZL-hS0WJI5M96OYMne5/edit?usp=drive_link&ouid=111352479357986755938&rtpof=true&sd=true))
+[View Test Cases](https://docs.google.com/spreadsheets/d/1hg1lb3_okQ9zDZL-hS0WJI5M96OYMne5/edit?usp=drive_link&ouid=111352479357986755938&rtpof=true&sd=true)
 
 ---
 
