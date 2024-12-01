@@ -4,6 +4,17 @@
 This repository contains test cases, reports, and documentation for testing the Dmoney REST API. The API enables functionalities such as creating users, depositing money, checking balances, and processing transactions between entities like Agents, Customers, and Merchants.
 
 ---
+## 💻 Technologies Used
+
+This project leverages the following tools and technologies:
+
+- **Programming Language:** JavaScript
+- **API Testing Tool:** [Postman](https://www.postman.com/)
+- **Report Generation:** Newman with HTML Report
+- **Version Control System:** [Git](https://git-scm.com/) & [GitHub](https://github.com/)
+- **Documentation:** Markdown, [Google Docs](https://www.google.com/docs/about/)
+- **Test Case Management:** [Google Sheets](https://www.google.com/sheets/about/)
+---
 
 ## 📝 Test Cases
 Comprehensive test cases have been written for the following scenarios:
